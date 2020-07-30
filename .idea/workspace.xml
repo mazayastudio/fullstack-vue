@@ -20,171 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37a8ca8d-4967-4059-8913-ac1c70aee777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/calendar_app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/bulma/bulma.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/bulma/bulma.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-1/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-1/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-1/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-1/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-2/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-3/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-4/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-5/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-6/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-7/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app-complete/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarDay.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEntry.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEvent.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarWeek.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/app/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calendar_app/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_1/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_2/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_3/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_4/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_5/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_5/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_complete/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_complete/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/app_complete/seed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/avatars/daniel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/avatars/kristy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/avatars/molly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/avatars/veronika.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/submissions/image-aqua.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/submissions/image-rose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/submissions/image-steel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/images/submissions/image-yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upvote/public/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/notedly.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../notedly/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/components/Foo/Bar.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/components/OtherComponent.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/components/demo-component.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/enhanceApp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/styles/global.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/styles/index.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/.vuepress/styles/palette.styl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2018-11-7-frontmatter-in-vuepress-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2018-11-7-frontmatter-in-vuepress-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2018-11-7-frontmatter-in-vuepress.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-2-26-markdown-slot-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-2-26-markdown-slot-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-2-26-markdown-slot-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-2-26-markdown-slot.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-5-6-writing-a-vuepress-theme-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-5-6-writing-a-vuepress-theme-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-5-6-writing-a-vuepress-theme-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/_posts/2019-5-6-writing-a-vuepress-theme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upvote/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/upvote/app/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +38,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fLxb9ZzhgqlahMXzw4R80QMwdU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -214,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2.Xtremax/pa corp/pa-corp-new-component" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -222,7 +60,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -237,6 +75,7 @@
       <workItem from="1596083933507" duration="1064000" />
       <workItem from="1596086118583" duration="596000" />
       <workItem from="1596092187367" duration="2617000" />
+      <workItem from="1596095414286" duration="949000" />
     </task>
     <servers />
   </component>
@@ -271,10 +110,11 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1366.0.1366.738@0.0.1920.1050" timestamp="1596094600925" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1596094601779">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="516" y="196" width="1022" height="737" key="SettingsEditor" timestamp="1596095480878">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1366.0.1366.738@0.0.1920.1050" timestamp="1596094601779" />
+    <state x="516" y="196" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1596095480878" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596092987266">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
