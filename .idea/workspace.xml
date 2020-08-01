@@ -19,12 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37a8ca8d-4967-4059-8913-ac1c70aee777" name="Default Changelist" comment="Using Props">
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="37a8ca8d-4967-4059-8913-ac1c70aee777" name="Default Changelist" comment="Edit Part">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarDay.vue" beforeDir="false" afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarDay.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEntry.vue" beforeDir="false" afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEntry.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEvent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/calendar_app/src/app/components/CalendarEvent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calendar_app/src/app/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/calendar_app/src/app/store.js" afterDir="false" />
     </list>
@@ -112,7 +108,8 @@
       <workItem from="1596192003422" duration="2509000" />
       <workItem from="1596194544333" duration="95000" />
       <workItem from="1596194646779" duration="692000" />
-      <workItem from="1596208931726" duration="406000" />
+      <workItem from="1596208931726" duration="502000" />
+      <workItem from="1596238498092" duration="4788000" />
     </task>
     <task id="LOCAL-00001" summary="Pengulangan V-for">
       <created>1596096459737</created>
@@ -149,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596173984472</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Edit Part">
+      <created>1596209415000</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596209415000</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +180,8 @@
     <MESSAGE value="Sorting" />
     <MESSAGE value="Event Handling with V-on and methods" />
     <MESSAGE value="Using Props" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using Props" />
+    <MESSAGE value="Edit Part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Part" />
   </component>
   <component name="WindowStateProjectService">
     <state x="837" y="435" width="622" height="243" key="#ESLint" timestamp="1596206078695">
@@ -201,22 +206,26 @@
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1366.0.1366.738@0.0.1920.1050" timestamp="1596174637346" />
     <state x="784" y="307" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1596205954210" />
-    <state width="1825" height="266" key="GridCell.Tab.0.bottom" timestamp="1596209087977">
+    <state width="1825" height="266" key="GridCell.Tab.0.bottom" timestamp="1596238706404">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="266" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596209087977" />
-    <state width="1825" height="266" key="GridCell.Tab.0.center" timestamp="1596209087975">
+    <state width="1825" height="266" key="GridCell.Tab.0.bottom/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1596238706404" />
+    <state width="1825" height="266" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1596209433784" />
+    <state width="1825" height="266" key="GridCell.Tab.0.center" timestamp="1596238706404">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="266" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596209087975" />
-    <state width="1825" height="266" key="GridCell.Tab.0.left" timestamp="1596209087973">
+    <state width="1825" height="266" key="GridCell.Tab.0.center/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1596238706404" />
+    <state width="1825" height="266" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1596209433784" />
+    <state width="1825" height="266" key="GridCell.Tab.0.left" timestamp="1596238706403">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="266" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596209087973" />
-    <state width="1825" height="266" key="GridCell.Tab.0.right" timestamp="1596209087976">
+    <state width="1825" height="266" key="GridCell.Tab.0.left/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1596238706403" />
+    <state width="1825" height="266" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1596209433784" />
+    <state width="1825" height="266" key="GridCell.Tab.0.right" timestamp="1596238706404">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="1825" height="266" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596209087976" />
+    <state width="1825" height="266" key="GridCell.Tab.0.right/72.27.1848.1053/0.1080.1920.1080@72.27.1848.1053" timestamp="1596238706404" />
+    <state width="1825" height="266" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1596209433784" />
     <state x="540" y="259" key="IDE.errors.dialog" timestamp="1596165801437">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -227,11 +236,11 @@
     <state x="668" y="140" key="SettingsEditor/0.0.1920.1050/-1366.0.1366.738@0.0.1920.1050" timestamp="1596195022790" />
     <state x="715" y="167" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1596206052412" />
     <state x="516" y="196" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1596208945487" />
-    <state x="539" y="261" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596173985955">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596209416433">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="539" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1366.0.1366.738@0.0.1920.1050" timestamp="1596173985955" />
-    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1596099415309" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1596209416433" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596092987266">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
